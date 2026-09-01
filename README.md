@@ -1,8 +1,10 @@
 ### SOBRE MIM
 
-Olá! Me chamo **Enzo Xavier**. Sou um **desenvolvedor Full Stack em formação** e atualmente atuo como **Estagiário em Desenvolvimento** no **Hub Inova FEMA**.
+Olá! Me chamo **Enzo Felipe Xavier**, tenho 19 anos e sou um **desenvolvedor Full Stack em formação**, atuando como **Estagiário em Desenvolvimento** no **Hub Inova FEMA**.
 
-Tenho experiência prática e interesse no ecossistema Web Backend & Frontend (PHP, Laravel, HTML, CSS), conteinerização com Docker, prototipagem no Figma, modelagem 3D no Fusion 360 e ferramentas de produtividade.
+🎓 Cursando **Ciência da Computação** na Fundação Educacional Municipal de Assis (FEMA) e formado como **Técnico em Mecânica** pela ETEC Pedro d'Arcádia Neto.
+
+💡 Amante de **inovação e tecnologia**, busco evoluir continuamente na área da programação, unindo raciocínio lógico, criatividade e boas práticas de desenvolvimento de software.
 
 ---
 
@@ -17,8 +19,8 @@ Tenho experiência prática e interesse no ecossistema Web Backend & Frontend (P
 ### GITHUB STATS
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=enzosaxavier-a11y&show_icons=true&theme=dark&hide_border=false&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&border_color=30363d" height="160" alt="Estatísticas do GitHub" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=enzosaxavier-a11y&layout=compact&theme=dark&hide_border=false&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&border_color=30363d" height="160" alt="Linguagens mais usadas" />
+  <img src="https://github-readme-stats.vercel.app/api?username=enzosaxavier-a11y&show_icons=true&theme=dark" height="160" alt="Estatísticas do GitHub" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=enzosaxavier-a11y&layout=compact&theme=dark" height="160" alt="Linguagens mais usadas" />
 </p>
 
 ---

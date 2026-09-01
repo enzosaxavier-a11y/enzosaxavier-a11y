@@ -33,9 +33,14 @@
 ---
 
 ### 📊 Minhas Estatísticas no GitHub
+
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=enzosaxavier-a11y&show_icons=true&theme=tokyonight" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=enzosaxavier-a11y&layout=compact&theme=tokyonight" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=enzosaxavier-a11y&show_icons=true&theme=tokyonight&locale=pt-br" height="150" alt="Estatísticas do GitHub" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=enzosaxavier-a11y&layout=compact&theme=tokyonight&locale=pt-br" height="150" alt="Linguagens mais usadas" />
+</p>
+
+<p align="left">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=enzosaxavier-a11y&theme=tokyonight" height="150" alt="Sequência de Commits" />
 </p>
 
 ---
@@ -45,18 +50,3 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/enzo-xavier/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/enzosaxavier-a11y)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:enzo.saxavier@gmail.com)
-
-<!--
-**enzosaxavier-a11y/enzosaxavier-a11y** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
